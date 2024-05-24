@@ -26,3 +26,10 @@ Welcome to the Drum Kit repository! This project features a virtual drum kit wit
 3. Start playing and creating your own beats!
 ## Contributing
 Contributions are welcome! If you'd like to enhance the drum kit with new features, improve existing functionality, or fix any bugs, feel free to submit a pull request.
+## Acknowledgements
+- The project is inspired by the App Brewery's Web Development Bootcamp.
+
+## Contact
+If you have any questions, feel free to reach out:
+
+- Email: Samirkadu8@gmail.com
